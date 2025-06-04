@@ -1,10 +1,10 @@
 # 👋 Olá, bem-vindo(a) ao meu perfil!
 
 ## 📇 Descrição Pessoal
-Meu nome é Jefferson Damasceno. Sou estudante de Sistemas de Informação na Universidade Federal do Pará.
+Meu nome é Jefferson Damasceno. Sou estudante de Sistemas de Informação na Universidade Federal do Pará. Atualmente, estou trabalhando no Ministério Público do Estado do Pará como estagiário.
 
 ## 📚 Competências
-Tenho conhecimento em desenvolvimento front-end (HTML, CSS e um pouco de JavaScript, além de breve experiência com frameworks como React e Angular), mas busco aprender também tecnologias voltadas ao back-end além de Python.
+Tenho conhecimento em desenvolvimento front-end (HTML, CSS e JavaScript, além de experiência com React e Angular), mas também estou aprendendo tecnologias voltadas ao back-end, como Python.
 
 ![HTML5](https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
